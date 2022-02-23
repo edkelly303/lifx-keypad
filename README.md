@@ -1,6 +1,6 @@
 # LifxSwitch
 
-**TODO: Add description**
+Raspberry Pi / Keybow physical lightswitch for Lifx bulbs, written using Gleam and Elixir/Nerves.
 
 ## Targets
 
